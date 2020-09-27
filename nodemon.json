@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_ALTAS_PW" : "ed31cc32",
+        "URL" : "http://localhost:3000",
+        "PORT" : 3000,
+        "JWT_SECRETKEY":"travelblogsecretkey"
+    }
+}
